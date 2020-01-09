@@ -3,6 +3,7 @@
 </div>
 
 ##Golden Word
+
 Gold Word is a 2D, turn-based, online board game. Crossplatfom is a working application that can be played from 2 to 5 people. The game has a betting system like poker. Each player has 2 letter cards at the beginning of the game. Each round, a letter card is opened in the common area. Players come to the last round, check the bet on each round. In the last round, the player who produces the longest and most meaningful Turkish word out of a total of 7 cards, wins the game. In equality, the gold on the table is shared.
 
 ####Features
@@ -17,6 +18,7 @@ Gold Word is a 2D, turn-based, online board game. Crossplatfom is a working appl
 ##Screenshots
 
 #####Gameplay:
+
 <img src="https://s5.gifyu.com/images/oyun-onizleme02.jpg" alt="oyun-onizleme02.jpg" border="0" />
 
 #####Win/Lose Screen:
